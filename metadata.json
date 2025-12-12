@@ -1,0 +1,5 @@
+{
+  "name": "HeroForge AI",
+  "description": "An AI-powered design tool that lets you edit and reimagine website hero images using text prompts with Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
